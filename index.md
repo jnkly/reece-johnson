@@ -39,6 +39,8 @@ Delve deeper recordings, skylax records, melodymathics
 ### Social
 
 [Soundcloud](https://soundcloud.com/reecejohnsonmsc)
+[Twitter](https://twitter.com/reecejohnsonmsc)
+[Facebook](https://www.facebook.com/reecejohnsonmusic)
 
 
 
