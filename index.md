@@ -13,27 +13,30 @@ Reece started producing music in 2012 and draws influence from the 90's house so
 
 Artists that influence his productions come from the likes of as Masters at Work, Kerri Chandler and Mood II Swing, and from more recent artists such as Detroit Swindle, Phil Weeks and Times are Ruff to name a few. Although he has only been producing a short while, Reece has gained some respectable signings in the last 12 months from the likes of Roots for Bloom, 124 Recordings, Skylax Records, Digital Delight, Inner City and the legendary Nervous Records.
 
-## Selected discography Reece Johnson
+## Music
 
-### Forthcoming releases:
+### Latest releases
 
-Do What You Feel – 124 Recordings V/A
-Fused – Skylax Records V/A
-I’ve Been Waiting For You – Digital Delight V/A
-Inner City Records EP Nervous Records EP
+Get up EP - Seven music
+https://www.beatport.com/release/get-up-ep/2563889
 
-### Discography:
+'Montreux' - Moment cinetique VA
+https://www.juno.co.uk/products/felipe-gordon-freudenthaler-g-markus-searching-ep/717245-01/
 
-Let’s Dance – Roots For Bloom V/A
-Souled Out EP – Plastik People Recordings I’ve Been Trying – Midnight Love Club V/A
-Keyz Keyz Keyz EP – Freche Fruchte Deeper Beats EP – Snazzy Traxx
-Microtouch – Raw Trax V/A
-Stacked Up – Ofishial Audio
-Feel Alright – Underground Source V/A
-Open Fire – Deep Hype Sounds V/A
-David Moran – Chordial (Reece Johnson Remix) – All Over It Records
-One Day Left EP – Mixed In Sheffield
-Something Different EP – Deep Hype Sounds
-New Arrival EP – Trakside Audio
-Danny McAleese – Far Out (Reece Johnson Remix) – Discotech Records
-This Time – Discotech Records V/A
+'I like the way you' - 124 Recordings VA
+https://www.juno.co.uk/products/ortella-chocky-rotty-no-money-in-house/721102-01/
+
+### Forthcoming releases on:
+
+Delve deeper recordings, skylax records, melodymathics
+
+## Contact
+
+### Booking
+
+[Johnsonmusic@live.co.uk](Johnsonmusic@live.co.uk)
+
+### Social
+
+
+
