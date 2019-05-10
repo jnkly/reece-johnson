@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }} - {{site.title}}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-</head>
-<body class="ma0 pa0 ststem-sans-serif f4">
-
-  <main class="container">
-  {{ content }}
-  </main>
-
+{% include head.html %}
+<body class="ma0 pa0 system-sans-serif f4 lh-copy">
+{% include header.html %}
+<main>
+<div class="center">
+{{ content }}
+</div>
+</main>
+{% include footer.html %}
 </body>
 </html>
