@@ -1,1 +1,15 @@
-// Custom colours
+.dark-blue { color: #181d2b; }
+.bg-dark-blue { background-color: #181d2b; }
+.b--dark-blue { border-color: #181d2b; }
+.hover-dark-blue:hover,
+.hover-dark-blue:focus { color: #181d2b; }
+.hover-bg-dark-blue:hover,
+.hover-bg-dark-blue:focus { background-color: #181d2b; }
+
+.orange { color: #ff6037; }
+.bg-orange { background-color: #ff6037; }
+.b--orange { border-color: #ff6037; }
+.hover-orange:hover,
+.hover-orange:focus { color: #ff6037; }
+.hover-bg-orange:hover,
+.hover-bg-orange:focus { background-color: #ff6037; }
